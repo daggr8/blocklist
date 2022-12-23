@@ -6,6 +6,10 @@ If you use Discord; https://github.com/Dogino/Discord-Phishing-URLs
 A blocklist for blocking malware, crypto, coin, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.  
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
 
+#### DandelionSprout Anti Malware  
+If you use AdGuard Home use this list instead of the one from Firebog.  
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt  
+
 
 # Filter lists used in uBlock Origin
 ### LegitimateURLShortener  
