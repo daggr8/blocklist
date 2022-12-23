@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20vers
 
 # Filter lists used in uBlock Origin
 ### LegitimateURLShortener  
-Removes click-ID etc from URLs (fbclid, gclid etc)    
+Removes click-ID etc from URLs (fbclid, gclid etc)  
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt  
 
 ### I don't care about cookies  
