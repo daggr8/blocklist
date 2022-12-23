@@ -1,6 +1,6 @@
 # Blocklists used in DNS sinkhole
 All the green URLs from here https://firebog.net/ and the OISD list https://oisd.nl/.  
-If you use Discord; https://github.com/Dogino/Discord-Phishing-URLs
+If you use Discord; https://github.com/Dogino/Discord-Phishing-URLs  
 
 #### Threat Intelligence Feeds
 A blocklist for blocking malware, crypto, coin, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.  
