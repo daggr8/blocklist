@@ -4,7 +4,7 @@ If you use Discord; https://github.com/Dogino/Discord-Phishing-URLs
 
 #### Threat Intelligence Feeds
 A blocklist for blocking malware, crypto, coin, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.  
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt  
 
 #### DandelionSprout Anti Malware  
 If you use AdGuard Home use this list instead of the one from Firebog.  
