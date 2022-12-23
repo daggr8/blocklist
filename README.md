@@ -20,4 +20,4 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLSho
 Removes cookie pop-ups etc. Use together with Firefox's Total Cookie Protection on (Strict mode)  
 https://www.i-dont-care-about-cookies.eu/abp/  
 
-test
+test2
