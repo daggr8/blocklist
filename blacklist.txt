@@ -1,1 +1,2 @@
 0.0.0.0 signup-moderator.com
+0.0.0.0 cdn2546713.cdnmegafiles.com
