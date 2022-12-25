@@ -2,3 +2,6 @@
 0.0.0.0 cdn2546713.cdnmegafiles.com
 0.0.0.0 gitvhub.com
 0.0.0.0 clck.ru
+0.0.0.0 rufus.ltd
+0.0.0.0 rufususb.gives
+
