@@ -4,4 +4,3 @@
 0.0.0.0 clck.ru
 0.0.0.0 rufus.ltd
 0.0.0.0 rufususb.gives
-
