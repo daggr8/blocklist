@@ -6,3 +6,7 @@
 ||rufus.ltd^
 ||rufuswin.com^
 ||rufus-app.com^
+||dzc-metrics.mzstatic.com^
+||choice.microsoft.com^
+||prod.nexusrules.live.com.akadns.net^
+||settings-win.data.microsoft.com^

@@ -6,3 +6,8 @@
 0.0.0.0 rufususb.gives
 0.0.0.0 rufuswin.com
 0.0.0.0 rufus-app.com
+0.0.0.0 dzc-metrics.mzstatic.com
+0.0.0.0 choice.microsoft.com
+0.0.0.0 prod.nexusrules.live.com.akadns.net
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 dzc-metrics.mzstatic.com
