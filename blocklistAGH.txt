@@ -76,7 +76,6 @@
 ||list-manage.com^
 ||mktoweb.com^
 ||online.digital-advisor.com^
-||open.spotify.com^
 ||pagead.l.doubleclick.net^
 ||pntrack.com^
 ||postsign.docusign.com^

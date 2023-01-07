@@ -77,7 +77,6 @@
 0.0.0.0 list-manage.com
 0.0.0.0 mktoweb.com
 0.0.0.0 online.digital-advisor.com
-0.0.0.0 open.spotify.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pntrack.com
 0.0.0.0 postsign.docusign.com
