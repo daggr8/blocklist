@@ -94,3 +94,4 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.kdukvh.com
 0.0.0.0 tesla-online.net
+0.0.0.0 emmm.spxaebjhxtmddsri.xyz
