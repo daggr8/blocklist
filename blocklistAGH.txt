@@ -65,7 +65,7 @@
 ||href.li^
 ||hubspotemail.net^
 ||image.email.microsoftemail.com^
-||link.freshmail.mx^
+||link.freshmail.mx^com
 ||link.springer.com^
 ||links.iterable.com^
 ||links.mkt41.net^
@@ -94,3 +94,13 @@
 ||www.kdukvh.com^
 ||tesla-online.net^
 ||emmm.spxaebjhxtmddsri.xyz^
+||dirwinstat.com^
+||devolrdm.com^
+||vectordmanagesoft.com^
+||cozy-sofware.com^
+||devolutionrdp.com^
+||astrachats.com^
+||chatgpt4beta.com^
+||singularlabs.org^
+||gotomeet.us^
+||gllmp.com^
