@@ -63,7 +63,6 @@
 ||go.nordvpn.net^
 ||guce.advertising.com^
 ||href.li^
-||hubspotemail.net^
 ||image.email.microsoftemail.com^
 ||link.freshmail.mx^com
 ||link.springer.com^
