@@ -64,7 +64,6 @@
 0.0.0.0 go.nordvpn.net
 0.0.0.0 guce.advertising.com
 0.0.0.0 href.li
-0.0.0.0 hubspotemail.net
 0.0.0.0 image.email.microsoftemail.com
 0.0.0.0 link.freshmail.mx
 0.0.0.0 link.springer.com
