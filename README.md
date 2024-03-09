@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20vers
 # Filter lists used in uBlock Origin
 
 #### Block YouTube shorts etc
-https://letsblock.it/filters
+https://letsblock.it/filters  
 
 #### LegitimateURLShortener  
 Removes click-ID etc from URLs (fbclid, gclid etc)  
