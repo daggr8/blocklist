@@ -104,3 +104,4 @@
 0.0.0.0 singularlabs.org
 0.0.0.0 gotomeet.us
 0.0.0.0 gllmp.com
+0.0.0.0 uppdateratjanst.com
