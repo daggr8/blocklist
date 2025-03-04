@@ -107,3 +107,4 @@
 0.0.0.0 uppdateradosa.com
 0.0.0.0 uppdateratjanst.com
 0.0.0.0 steamegift.com
+0.0.0.0 ubnuntu.com
